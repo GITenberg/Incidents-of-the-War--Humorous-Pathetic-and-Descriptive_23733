@@ -1,0 +1,28 @@
+_repo: Incidents-of-the-War--Humorous-Pathetic-and-Descriptive_23733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnett, Alfred
+    birthdate: 1824
+    deathdate: 1884
+    gutenberg_agent_id: '26002'
+    url: http://www.gutenberg.org/2009/agents/26002
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2007-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23733'
+  lccn: 02019139
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Anecdotes'
+- !lcc 'E456'
+title: 'Incidents of the War: Humorous, Pathetic, and Descriptive'
+url: http://www.gutenberg.org/ebooks/23733
